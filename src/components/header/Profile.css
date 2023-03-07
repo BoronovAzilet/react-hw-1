@@ -1,0 +1,32 @@
+.profile {
+  margin: 0 auto;
+  text-align: center;
+  background-color: silver;
+  width: 350px;
+  padding: 20px;
+}
+
+.foto {
+  width: 260px;
+  height: 260px;
+  border-radius: 80%;
+}
+li {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.name2 {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.foto2 {
+  width: 2%;
+  height: 2%;
+}
+
+li {
+}
