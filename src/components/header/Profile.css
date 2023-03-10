@@ -14,7 +14,7 @@
 li {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 3px;
 }
 .name2 {
   list-style: none;
@@ -26,7 +26,4 @@ li {
 .foto2 {
   width: 2%;
   height: 2%;
-}
-
-li {
 }
