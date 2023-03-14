@@ -1,8 +1,8 @@
 .wrapper {
   margin: 0 auto;
   margin-top: 5%;
-  width: 600px;
-  height: 200px;
+  width: 400px;
+  height: 230px;
   background-color: silver;
   padding: 20px;
 }
@@ -20,6 +20,7 @@
   font-size: 30px;
 }
 
-.item {
+.itemm {
   display: flex;
+  flex-direction: column;
 }

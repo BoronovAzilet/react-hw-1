@@ -1,0 +1,13 @@
+.transaction-history {
+  text-align: center;
+  width: 60%;
+  background-color: #00d9ff;
+  font-size: 40px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.text {
+  background-color: white;
+  font-size: 25px;
+  gap: 20px;
+}
