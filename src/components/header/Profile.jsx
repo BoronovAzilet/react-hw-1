@@ -15,17 +15,17 @@ const Profile = () => {
       </div>
 
       <ul class="name2">
-        <li>
-          <span class="name">Followers</span>
-          <span class="name">1000</span>
+        <li class="Views">
+          <span class="name2">Followers</span>
+          <span class="name2">1000</span>
         </li>
-        <li>
-          <span class="name">Views</span>
-          <span class="name">2000</span>
+        <li class="Views">
+          <span class="name2">Views</span>
+          <span class="name2">2000</span>
         </li>
-        <li>
-          <span class="name">Likes</span>
-          <span class="name">3000</span>
+        <li class="Views">
+          <span class="name2">Likes</span>
+          <span class="name2">3000</span>
         </li>
       </ul>
     </div>

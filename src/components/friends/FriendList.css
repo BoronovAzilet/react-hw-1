@@ -1,0 +1,35 @@
+.item {
+  display: flex;
+  width: 1000px;
+  /*   margin: 10px; */
+  border-radius: 16px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  /*   background-color: #fff;
+  transition: box-shadow 0.3s ease-in-out; */
+  font-size: 30px;
+  gap: 20px;
+  padding: 10px;
+}
+
+.avatar {
+  width: 160px;
+  height: 130px;
+  /*  margin-left: 20px;
+  border-radius: 20%; */
+}
+
+.name {
+  width: 300px;
+}
+.red {
+  background-color: red;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+.green {
+  background-color: green;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}

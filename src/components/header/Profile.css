@@ -11,7 +11,7 @@
   height: 260px;
   border-radius: 80%;
 }
-li {
+.views {
   display: flex;
   flex-direction: column;
   gap: 3px;
